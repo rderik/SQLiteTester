@@ -1,4 +1,4 @@
-import Csqlite
+import CSQLite
 
 print("Hello, world!")
 let version = String(cString: sqlite3_libversion())
